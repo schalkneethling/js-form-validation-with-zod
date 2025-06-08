@@ -1,2 +1,3 @@
 # js-form-validation-with-zod
-An example of using Zod with JavaScript
+
+An example of using [Zod](https://zod.dev/) with JavaScript
